@@ -102,4 +102,3 @@ var tooltip = d3.select("#my_dataviz")
 
 // Legend function
 
-  <svg id="my_dataviz" height=300 width=450></svg>
